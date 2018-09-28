@@ -1,0 +1,30 @@
+import com.liferay.portal.kernel.dao.jdbc.DataAccess;
+import com.liferay.portal.model.User;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+
+Connection con = null;
+PreparedStatement ps = null;
+ResultSet rs = null;
+
+try {
+	con = DataAccess.getUpgradeOptimizedConnection();
+
+	String sql = "select title, userId, userName from BlogsEntry where groupId = 14 AND userName = 'Matthew Draper'";
+
+	ps = con.prepareStatement(sql);
+
+	rs = ps.executeQuery();
+
+	while (rs.next()) {
+		out.println(rs.getString("title"));
+	}
+}
+catch(e) {
+	out.println("""<div class="portlet-msg-error">${e}</div>""")
+}
+finally {
+	DataAccess.cleanUp(con, ps, rs);
+}

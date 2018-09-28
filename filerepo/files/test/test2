@@ -1,0 +1,559 @@
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	12536	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	11184	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	36152	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	11214	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	11313	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	12621	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	11249	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	11306	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	14811	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	11344	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	11358	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	35842	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	11207	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	11320	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	11299	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	11365	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	35259	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 36015, kbarticle.userName = 'Michael Kim' WHERE kbarticle.resourcePrimKey = 	36337	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 24501, kbarticle.userName = 'Adam Nagy' WHERE kbarticle.resourcePrimKey = 	29345	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 24501, kbarticle.userName = 'Adam Nagy' WHERE kbarticle.resourcePrimKey = 	36470	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 24501, kbarticle.userName = 'Adam Nagy' WHERE kbarticle.resourcePrimKey = 	14474	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 13669, kbarticle.userName = 'Alex Chau' WHERE kbarticle.resourcePrimKey = 27696	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 13669, kbarticle.userName = 'Alex Chau' WHERE kbarticle.resourcePrimKey = 12964	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 13669, kbarticle.userName = 'Alex Chau' WHERE kbarticle.resourcePrimKey = 14439	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 13669, kbarticle.userName = 'Alex Chau' WHERE kbarticle.resourcePrimKey = 14425	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 13669, kbarticle.userName = 'Alex Chau' WHERE kbarticle.resourcePrimKey = 21799	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 13669, kbarticle.userName = 'Alex Chau' WHERE kbarticle.resourcePrimKey = 12560	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 13669, kbarticle.userName = 'Alex Chau' WHERE kbarticle.resourcePrimKey = 34622	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 13669, kbarticle.userName = 'Alex Chau' WHERE kbarticle.resourcePrimKey = 17503	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 13669, kbarticle.userName = 'Alex Chau' WHERE kbarticle.resourcePrimKey = 17334	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 22447, kbarticle.userName = 'Antionette Robinson' WHERE kbarticle.resourcePrimKey = 24963	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 22447, kbarticle.userName = 'Antionette Robinson' WHERE kbarticle.resourcePrimKey = 14769	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 22447, kbarticle.userName = 'Antionette Robinson' WHERE kbarticle.resourcePrimKey = 31968	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 22447, kbarticle.userName = 'Antionette Robinson' WHERE kbarticle.resourcePrimKey = 31945	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 22447, kbarticle.userName = 'Antionette Robinson' WHERE kbarticle.resourcePrimKey = 31996	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 22447, kbarticle.userName = 'Antionette Robinson' WHERE kbarticle.resourcePrimKey = 31918	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 22447, kbarticle.userName = 'Antionette Robinson' WHERE kbarticle.resourcePrimKey = 40308	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 22447, kbarticle.userName = 'Antionette Robinson' WHERE kbarticle.resourcePrimKey = 32039	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 22447, kbarticle.userName = 'Antionette Robinson' WHERE kbarticle.resourcePrimKey = 31762	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 22447, kbarticle.userName = 'Antionette Robinson' WHERE kbarticle.resourcePrimKey = 31732	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 22447, kbarticle.userName = 'Antionette Robinson' WHERE kbarticle.resourcePrimKey = 32010	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 12598	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 30420	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 14425	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 21550	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 21799	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 21936	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 26316	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 40366	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 15145	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 27589	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 27616	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 26078	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 26676	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 16184	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 27825	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 26688	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 22593	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 25666	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 28444	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 16161	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 12834	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 26932	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 19123	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 27515	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 15924	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 26294	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 24793	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 12668	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 36463	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 12440	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 30837	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 30199	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31534	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31522	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31960	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 32064	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31570	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31320	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31988	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 32076	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 22958	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 26221	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 25769	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 25057	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 24618	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 22482	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 20517	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 12987	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 12827	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 12813	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 12770	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 12754	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 27696	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 30199	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31534	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31522	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31960	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 32064	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31570	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31320	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 31988	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 32076	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 30823	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 25821	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 21970	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 14140	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 32270	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10597, kbarticle.userName = 'Benson Lau' WHERE kbarticle.resourcePrimKey = 38417	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 11199	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 12637	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 19094	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 18060	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 18064	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 17938	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 19048	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 17235	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 27348	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 17258	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 24253	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 40324	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 36923	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 43489	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 17212	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 18327	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 30087	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 38992	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 16211	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14680	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 15764	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14748	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 31478	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 12792	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 36777	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 36415	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 36639	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 36448	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 12672	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 12848	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14432	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14474	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14467	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 12761	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14347	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 33703	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14354	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14340	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 31688	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 31668	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 31656	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 31644	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 31470	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 31109	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14855	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 13062	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 13956	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 13923	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 13890	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 13824	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 13224	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 13210	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 12875	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 12785	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 12778	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 12651	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 11737	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 36386	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 12510	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 15296	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14326	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14577	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 30305	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 16211	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 20912	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 30087	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 28613	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 28606	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 28629	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 22089	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 25577	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 12693	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 15228	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14154	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14147	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 10709, kbarticle.userName = 'Brett Ripley' WHERE kbarticle.resourcePrimKey = 14133	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 22756, kbarticle.userName = 'Brian Chang' WHERE kbarticle.resourcePrimKey = 36401	 AND kbArticle.version = 1;
+
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 21316, kbarticle.userName = 'Brian Suh' WHERE kbarticle.resourcePrimKey = 19041	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21316, kbarticle.userName = 'Brian Suh' WHERE kbarticle.resourcePrimKey = 15110	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21316, kbarticle.userName = 'Brian Suh' WHERE kbarticle.resourcePrimKey = 23183	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21316, kbarticle.userName = 'Brian Suh' WHERE kbarticle.resourcePrimKey = 14552	 AND kbArticle.version = 1;
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 15487, kbarticle.userName = 'Christopher Lui' WHERE kbarticle.resourcePrimKey = 17665	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15487, kbarticle.userName = 'Christopher Lui' WHERE kbarticle.resourcePrimKey = 19181	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15487, kbarticle.userName = 'Christopher Lui' WHERE kbarticle.resourcePrimKey = 20092	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15487, kbarticle.userName = 'Christopher Lui' WHERE kbarticle.resourcePrimKey = 36723	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15487, kbarticle.userName = 'Christopher Lui' WHERE kbarticle.resourcePrimKey = 15270	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15487, kbarticle.userName = 'Christopher Lui' WHERE kbarticle.resourcePrimKey = 36723	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15487, kbarticle.userName = 'Christopher Lui' WHERE kbarticle.resourcePrimKey = 22547	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15487, kbarticle.userName = 'Christopher Lui' WHERE kbarticle.resourcePrimKey = 21542	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15487, kbarticle.userName = 'Christopher Lui' WHERE kbarticle.resourcePrimKey = 18980	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 29184, kbarticle.userName = 'Coleman Ng' WHERE kbarticle.resourcePrimKey = 40284	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29184, kbarticle.userName = 'Coleman Ng' WHERE kbarticle.resourcePrimKey = 40344	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29184, kbarticle.userName = 'Coleman Ng' WHERE kbarticle.resourcePrimKey = 40308	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29184, kbarticle.userName = 'Coleman Ng' WHERE kbarticle.resourcePrimKey = 40292	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 32130, kbarticle.userName = 'Daniel Couso' WHERE kbarticle.resourcePrimKey = 32230	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 23766, kbarticle.userName = 'Daniel Javorszky' WHERE kbarticle.resourcePrimKey = 18320	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23766, kbarticle.userName = 'Daniel Javorszky' WHERE kbarticle.resourcePrimKey = 21887	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23766, kbarticle.userName = 'Daniel Javorszky' WHERE kbarticle.resourcePrimKey = 34847	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23766, kbarticle.userName = 'Daniel Javorszky' WHERE kbarticle.resourcePrimKey = 29940	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23766, kbarticle.userName = 'Daniel Javorszky' WHERE kbarticle.resourcePrimKey = 29952	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 19266, kbarticle.userName = 'Eric Cheng' WHERE kbarticle.resourcePrimKey = 18500	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19266, kbarticle.userName = 'Eric Cheng' WHERE kbarticle.resourcePrimKey = 30605	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19266, kbarticle.userName = 'Eric Cheng' WHERE kbarticle.resourcePrimKey = 42439	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19266, kbarticle.userName = 'Eric Cheng' WHERE kbarticle.resourcePrimKey = 42423	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19266, kbarticle.userName = 'Eric Cheng' WHERE kbarticle.resourcePrimKey = 42393	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19266, kbarticle.userName = 'Eric Cheng' WHERE kbarticle.resourcePrimKey = 27931	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19266, kbarticle.userName = 'Eric Cheng' WHERE kbarticle.resourcePrimKey = 18554	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19266, kbarticle.userName = 'Eric Cheng' WHERE kbarticle.resourcePrimKey = 14518	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19266, kbarticle.userName = 'Eric Cheng' WHERE kbarticle.resourcePrimKey = 29162	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19266, kbarticle.userName = 'Eric Cheng' WHERE kbarticle.resourcePrimKey = 32270	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 13468, kbarticle.userName = 'George Chi' WHERE kbarticle.resourcePrimKey = 15174	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 32688, kbarticle.userName = 'Gustavo Vasconcelos' WHERE kbarticle.resourcePrimKey = 36322	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 32688, kbarticle.userName = 'Gustavo Vasconcelos' WHERE kbarticle.resourcePrimKey = 22112	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 32688, kbarticle.userName = 'Gustavo Vasconcelos' WHERE kbarticle.resourcePrimKey = 40268	 AND kbArticle.version = 1;
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 24703	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 17907	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 18069	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 32742	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 42778	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 17535	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 18252	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 26528	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 14979	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 16905	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 27501	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 24703	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 13238	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 14354	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 27501	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 27666	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 22267	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 25041	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 22855	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 22257	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 15214	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 15752	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 15525	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 22267	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 22257	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 20890	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 20882	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 18522	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 42787	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 17535	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 14919	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15705, kbarticle.userName = 'Ira Chui' WHERE kbarticle.resourcePrimKey = 14936	 AND kbArticle.version = 1;
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 23598, kbarticle.userName = 'Ivan Cheung' WHERE kbarticle.resourcePrimKey = 16339	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23598, kbarticle.userName = 'Ivan Cheung' WHERE kbarticle.resourcePrimKey = 16346	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 21228, kbarticle.userName = 'Jeffrey Tuason' WHERE kbarticle.resourcePrimKey = 12950	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21228, kbarticle.userName = 'Jeffrey Tuason' WHERE kbarticle.resourcePrimKey = 12957	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21228, kbarticle.userName = 'Jeffrey Tuason' WHERE kbarticle.resourcePrimKey = 12903	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21228, kbarticle.userName = 'Jeffrey Tuason' WHERE kbarticle.resourcePrimKey = 21281	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 30774, kbarticle.userName = 'Jenny Chen' WHERE kbarticle.resourcePrimKey = 18248	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 30774, kbarticle.userName = 'Jenny Chen' WHERE kbarticle.resourcePrimKey = 15924	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 30774, kbarticle.userName = 'Jenny Chen' WHERE kbarticle.resourcePrimKey = 12890	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 30774, kbarticle.userName = 'Jenny Chen' WHERE kbarticle.resourcePrimKey = 18265	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 30774, kbarticle.userName = 'Jenny Chen' WHERE kbarticle.resourcePrimKey = 16172	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 11885, kbarticle.userName = 'Jeremy Marshall' WHERE kbarticle.resourcePrimKey = 18545	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11885, kbarticle.userName = 'Jeremy Marshall' WHERE kbarticle.resourcePrimKey = 13041	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11885, kbarticle.userName = 'Jeremy Marshall' WHERE kbarticle.resourcePrimKey = 14720	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11885, kbarticle.userName = 'Jeremy Marshall' WHERE kbarticle.resourcePrimKey = 13048	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11885, kbarticle.userName = 'Jeremy Marshall' WHERE kbarticle.resourcePrimKey = 27537	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11885, kbarticle.userName = 'Jeremy Marshall' WHERE kbarticle.resourcePrimKey = 28129	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11885, kbarticle.userName = 'Jeremy Marshall' WHERE kbarticle.resourcePrimKey = 12687	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11885, kbarticle.userName = 'Jeremy Marshall' WHERE kbarticle.resourcePrimKey = 18860	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11885, kbarticle.userName = 'Jeremy Marshall' WHERE kbarticle.resourcePrimKey = 18808	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11885, kbarticle.userName = 'Jeremy Marshall' WHERE kbarticle.resourcePrimKey = 18801	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11885, kbarticle.userName = 'Jeremy Marshall' WHERE kbarticle.resourcePrimKey = 18636	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 19154, kbarticle.userName = 'Joel Garman' WHERE kbarticle.resourcePrimKey = 12910	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19154, kbarticle.userName = 'Joel Garman' WHERE kbarticle.resourcePrimKey = 36329	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19154, kbarticle.userName = 'Joel Garman' WHERE kbarticle.resourcePrimKey = 12910	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19154, kbarticle.userName = 'Joel Garman' WHERE kbarticle.resourcePrimKey = 18609	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19154, kbarticle.userName = 'Joel Garman' WHERE kbarticle.resourcePrimKey = 17515	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19154, kbarticle.userName = 'Joel Garman' WHERE kbarticle.resourcePrimKey = 25837	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 19154, kbarticle.userName = 'Joel Garman' WHERE kbarticle.resourcePrimKey = 15117	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 11816, kbarticle.userName = 'John Ishihara' WHERE kbarticle.resourcePrimKey = 42746	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11816, kbarticle.userName = 'John Ishihara' WHERE kbarticle.resourcePrimKey = 36394	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11816, kbarticle.userName = 'John Ishihara' WHERE kbarticle.resourcePrimKey = 15516	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 24077, kbarticle.userName = 'John Park' WHERE kbarticle.resourcePrimKey = 28793	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 13292, kbarticle.userName = 'Jonas Choi' WHERE kbarticle.resourcePrimKey = 17903	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 13292, kbarticle.userName = 'Jonas Choi' WHERE kbarticle.resourcePrimKey = 19069	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 13292, kbarticle.userName = 'Jonas Choi' WHERE kbarticle.resourcePrimKey = 17373	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 13292, kbarticle.userName = 'Jonas Choi' WHERE kbarticle.resourcePrimKey = 19069	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 27631, kbarticle.userName = 'Jonathan Tanamachi' WHERE kbarticle.resourcePrimKey = 36436	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 27631, kbarticle.userName = 'Jonathan Tanamachi' WHERE kbarticle.resourcePrimKey = 36322	 AND kbArticle.version = 1;
+
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 27359, kbarticle.userName = 'Jordi Rodo' WHERE kbarticle.resourcePrimKey = 36298	 AND kbArticle.version = 1;
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 23718, kbarticle.userName = 'Jorge Diaz' WHERE kbarticle.resourcePrimKey = 23718	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 26458, kbarticle.userName = 'Jose Jimenez' WHERE kbarticle.resourcePrimKey = 29990	 AND kbArticle.version = 1;
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 36505	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 14376	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 12882	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 26302	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 16332	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 18196	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 12517	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 12529	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 36408	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 36512	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 36505	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 36422	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 14652	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 14450	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 15303	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 34494	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 15625	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 17361	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 31353, kbarticle.userName = 'Joshua Kuo' WHERE kbarticle.resourcePrimKey = 18173	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 34214	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 20166	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 23456	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 15285	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 18856	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 17564	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 15935	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 21506	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 21645	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 21736	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 21669	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 26833	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 17670	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 21613	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 16809	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 17028	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 17589	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 17035	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 17686	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 34214	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 42050	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 41415	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 24135	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 18083	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 21944	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 12095, kbarticle.userName = 'Justin Choi' WHERE kbarticle.resourcePrimKey = 18486	 AND kbArticle.version = 1;
+
+
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 11111	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 11149	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 13055	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 11137	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 16207	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 11118	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 11130	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 11104	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 11006	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 12381	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 11097	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23550, kbarticle.userName = 'Kenneth Dong' WHERE kbarticle.resourcePrimKey = 11156	 AND kbArticle.version = 1;
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 12574	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 40359	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 40351	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 40331	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 40300	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 31840	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 31820	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 31812	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 31911	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 31888	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 32112	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 31847	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 32055	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 31980	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 31902	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 32047	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 31895	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 32318	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29852, kbarticle.userName = 'Kevin Hoshi' WHERE kbarticle.resourcePrimKey = 15376	 AND kbArticle.version = 1;
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 15942, kbarticle.userName = 'Kevin O\'Farrell' WHERE kbarticle.resourcePrimKey = 26241	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15942, kbarticle.userName = 'Kevin O\'Farrell' WHERE kbarticle.resourcePrimKey = 15082	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15942, kbarticle.userName = 'Kevin O\'Farrell' WHERE kbarticle.resourcePrimKey = 36941	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15942, kbarticle.userName = 'Kevin O\'Farrell' WHERE kbarticle.resourcePrimKey = 18331	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15942, kbarticle.userName = 'Kevin O\'Farrell' WHERE kbarticle.resourcePrimKey = 18568	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15942, kbarticle.userName = 'Kevin O\'Farrell' WHERE kbarticle.resourcePrimKey = 25459	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15942, kbarticle.userName = 'Kevin O\'Farrell' WHERE kbarticle.resourcePrimKey = 19246	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15942, kbarticle.userName = 'Kevin O\'Farrell' WHERE kbarticle.resourcePrimKey = 12841	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15942, kbarticle.userName = 'Kevin O\'Farrell' WHERE kbarticle.resourcePrimKey = 26241	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15942, kbarticle.userName = 'Kevin O\'Farrell' WHERE kbarticle.resourcePrimKey = 24793	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 15942, kbarticle.userName = 'Kevin O\'Farrell' WHERE kbarticle.resourcePrimKey = 28541	 AND kbArticle.version = 1;
+
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 23989, kbarticle.userName = 'Kyle Lee' WHERE kbarticle.resourcePrimKey = 14498	 AND kbArticle.version = 1;
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 27445, kbarticle.userName = 'Laszlo Csontos' WHERE kbarticle.resourcePrimKey = 34847	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 26089, kbarticle.userName = 'Laura Li' WHERE kbarticle.resourcePrimKey = 12747	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 26089, kbarticle.userName = 'Laura Li' WHERE kbarticle.resourcePrimKey = 28444	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 26089, kbarticle.userName = 'Laura Li' WHERE kbarticle.resourcePrimKey = 18561	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 26089, kbarticle.userName = 'Laura Li' WHERE kbarticle.resourcePrimKey = 36559	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 26089, kbarticle.userName = 'Laura Li' WHERE kbarticle.resourcePrimKey = 24904	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 26089, kbarticle.userName = 'Laura Li' WHERE kbarticle.resourcePrimKey = 12747	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 26089, kbarticle.userName = 'Laura Li' WHERE kbarticle.resourcePrimKey = 15235	 AND kbArticle.version = 1;
+
+
+
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 21251, kbarticle.userName = 'Marco Abamonga' WHERE kbarticle.resourcePrimKey = 21873	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21251, kbarticle.userName = 'Marco Abamonga' WHERE kbarticle.resourcePrimKey = 29834	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21251, kbarticle.userName = 'Marco Abamonga' WHERE kbarticle.resourcePrimKey = 21936	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21251, kbarticle.userName = 'Marco Abamonga' WHERE kbarticle.resourcePrimKey = 18479	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21251, kbarticle.userName = 'Marco Abamonga' WHERE kbarticle.resourcePrimKey = 22295	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21251, kbarticle.userName = 'Marco Abamonga' WHERE kbarticle.resourcePrimKey = 18180	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21251, kbarticle.userName = 'Marco Abamonga' WHERE kbarticle.resourcePrimKey = 16202	 AND kbArticle.version = 1;
+
+
+
+
+
+
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 23965, kbarticle.userName = 'Mark Yamasaki' WHERE kbarticle.resourcePrimKey = 36663	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23965, kbarticle.userName = 'Mark Yamasaki' WHERE kbarticle.resourcePrimKey = 36651	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 23965, kbarticle.userName = 'Mark Yamasaki' WHERE kbarticle.resourcePrimKey = 18826	 AND kbArticle.version = 1;
+
+
+
+
+
+UPDATE kbarticle SET kbarticle.userId = 26719, kbarticle.userName = 'Matthew Chin' WHERE kbarticle.resourcePrimKey = 36374	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 26719, kbarticle.userName = 'Matthew Chin' WHERE kbarticle.resourcePrimKey = 12820	 AND kbArticle.version = 1;
+
+
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 26265	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 17945	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 18045	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 27981	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 28299	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 26265	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 39063	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 17203	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 28299	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 28327	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 26241	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 11851, kbarticle.userName = 'Michael Wine' WHERE kbarticle.resourcePrimKey = 18538	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 18098, kbarticle.userName = 'Nicole Lau' WHERE kbarticle.resourcePrimKey = 30030	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 18098, kbarticle.userName = 'Nicole Lau' WHERE kbarticle.resourcePrimKey = 31329	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 18098, kbarticle.userName = 'Nicole Lau' WHERE kbarticle.resourcePrimKey = 34365	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 18098, kbarticle.userName = 'Nicole Lau' WHERE kbarticle.resourcePrimKey = 11793	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 27076, kbarticle.userName = 'Nimrod Papp' WHERE kbarticle.resourcePrimKey = 35492	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 27076, kbarticle.userName = 'Nimrod Papp' WHERE kbarticle.resourcePrimKey = 43299	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 27076, kbarticle.userName = 'Nimrod Papp' WHERE kbarticle.resourcePrimKey = 34877	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 27076, kbarticle.userName = 'Nimrod Papp' WHERE kbarticle.resourcePrimKey = 31207	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 26624, kbarticle.userName = 'Peter Borkuti' WHERE kbarticle.resourcePrimKey = 18530	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 24937, kbarticle.userName = 'Phil Zhang' WHERE kbarticle.resourcePrimKey = 24860	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 24937, kbarticle.userName = 'Phil Zhang' WHERE kbarticle.resourcePrimKey = 22919	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 26547, kbarticle.userName = 'Preston Crary' WHERE kbarticle.resourcePrimKey = 26676	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 21771, kbarticle.userName = 'Randall Hidajat' WHERE kbarticle.resourcePrimKey = 22275	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 21771, kbarticle.userName = 'Randall Hidajat' WHERE kbarticle.resourcePrimKey = 35849	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 24149, kbarticle.userName = 'Renata Kovacs' WHERE kbarticle.resourcePrimKey = 14951	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 24149, kbarticle.userName = 'Renata Kovacs' WHERE kbarticle.resourcePrimKey = 34646	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 24197, kbarticle.userName = 'Ricardo Funke' WHERE kbarticle.resourcePrimKey = 22135	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 26034, kbarticle.userName = 'Rodrigo De Mier' WHERE kbarticle.resourcePrimKey = 32900	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 26034, kbarticle.userName = 'Rodrigo De Mier' WHERE kbarticle.resourcePrimKey = 22105	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 34579, kbarticle.userName = 'Sergio Sanchez' WHERE kbarticle.resourcePrimKey = 17345	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 23742, kbarticle.userName = 'Tibor Jandi' WHERE kbarticle.resourcePrimKey = 15359	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 25997, kbarticle.userName = 'Varun Gupta' WHERE kbarticle.resourcePrimKey = 15285	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 24368, kbarticle.userName = 'Vilmos Papp' WHERE kbarticle.resourcePrimKey = 18338	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 13097, kbarticle.userName = 'Vincent Liu' WHERE kbarticle.resourcePrimKey = 12591	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 25640, kbarticle.userName = 'Zoltan Takacs' WHERE kbarticle.resourcePrimKey = 15124	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 25640, kbarticle.userName = 'Zoltan Takacs' WHERE kbarticle.resourcePrimKey = 15103	 AND kbArticle.version = 1;
+
+UPDATE kbarticle SET kbarticle.userId = 29316, kbarticle.userName = 'Zsolt Balogh' WHERE kbarticle.resourcePrimKey = 36541	 AND kbArticle.version = 1;
+UPDATE kbarticle SET kbarticle.userId = 29316, kbarticle.userName = 'Zsolt Balogh' WHERE kbarticle.resourcePrimKey = 12710	 AND kbArticle.version = 1;

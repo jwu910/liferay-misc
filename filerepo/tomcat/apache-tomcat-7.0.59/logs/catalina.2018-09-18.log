@@ -1,0 +1,56 @@
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.59
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jan 28 2015 15:51:10 UTC
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.59.0
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Linux
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            4.14.67-1-lts
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             /usr/lib/jvm/java-8-jdk/jre
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_181-b13
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         /home/joshua/liferay/misc/filerepo/tomcat/apache-tomcat-7.0.59
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         /home/joshua/liferay/misc/filerepo/tomcat/apache-tomcat-7.0.59
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=/home/joshua/liferay/misc/filerepo/tomcat/apache-tomcat-7.0.59/conf/logging.properties
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=/home/joshua/liferay/misc/filerepo/tomcat/apache-tomcat-7.0.59/endorsed
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=/home/joshua/liferay/misc/filerepo/tomcat/apache-tomcat-7.0.59
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=/home/joshua/liferay/misc/filerepo/tomcat/apache-tomcat-7.0.59
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=/home/joshua/liferay/misc/filerepo/tomcat/apache-tomcat-7.0.59/temp
+Sep 18, 2018 2:55:09 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: /usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+Sep 18, 2018 2:55:09 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-7080"]
+Sep 18, 2018 2:55:09 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-7009"]
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 618 ms
+Sep 18, 2018 2:55:09 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Sep 18, 2018 2:55:09 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.59
+Sep 18, 2018 2:55:09 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory /home/joshua/liferay/misc/filerepo/tomcat/apache-tomcat-7.0.59/webapps/ROOT
+Sep 18, 2018 2:55:10 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory /home/joshua/liferay/misc/filerepo/tomcat/apache-tomcat-7.0.59/webapps/ROOT has finished in 964 ms
+Sep 18, 2018 2:55:10 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-7080"]
+Sep 18, 2018 2:55:10 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-7009"]
+Sep 18, 2018 2:55:10 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1004 ms
